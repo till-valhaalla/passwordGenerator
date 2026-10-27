@@ -86,3 +86,8 @@ button {
      display: flex;
      flex-direction: row;
 }
+#symbols, #numbers{
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #10B981;
+}
