@@ -80,3 +80,9 @@ button {
     padding: 4px 4px;
     text-align: center;
 }
+.toggle{
+     margin-top: 12px;
+     margin-left: 53px;
+     display: flex;
+     flex-direction: row;
+}
