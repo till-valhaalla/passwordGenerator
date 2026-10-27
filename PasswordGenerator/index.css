@@ -70,3 +70,13 @@ button {
 #color{
     color:#10B981;
 }
+.setLength{
+    margin-left: 53px;
+    color: #10B981;
+}
+#length{
+    border-radius: 6px;
+    border:none;
+    padding: 4px 4px;
+    text-align: center;
+}
